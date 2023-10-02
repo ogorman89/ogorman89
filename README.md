@@ -1,4 +1,9 @@
 ### Hi, I'm Ian 👋
-- 🔭 I’m currently working on my portfolio
-- 🌱 Building with Python, Javascript and web technologies
+- 🔭 I’m a Portland, Oregon based Software Engineer
 - 😄 Pronouns: He/Him
+- 🌱 100devs Bootcamp Student
+- 🧮 Former Accountant & Director of Finance
+
+
+
+
