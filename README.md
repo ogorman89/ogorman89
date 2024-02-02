@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌎 Portland, Oregon<br>😄 Pronouns: He/Him<br>🧮 Former Accountant & Director of Finance<br>✨ Contributer to <a href="https://github.com/codeforpdx" target="_blank">CODE PDX</a><br>📚 Currently learning Typescript</p>
+<p align="left">🌎 Portland, Oregon<br>😄 Pronouns: He/Him<br>🧮 Former Accountant & Director of Finance<br>✨ Contributer to <a href="https://github.com/codeforpdx" target="_blank">CODE PDX</a></p>
 
 ###
 
