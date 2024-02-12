@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Software Engineer based in Portland, Oregon. Building full-stack web apps.</p>
+<p align="left">I'm a Software Engineer and passionate tech community builder in Portland, Oregon.</p>
 
 ###
 
