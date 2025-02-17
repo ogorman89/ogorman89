@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">I'm a Software Engineer and community organizer based in Portland, Oregon.</p>
+<p align="left">I'm a Software Engineer in Portland, Oregon currently building backend services in Go!</p>
 
 ###
 
-<p align="left">🌎 Portland, Oregon<br>😄 Pronouns: He/Him<br>🧮 Former Accountant & Director of Finance<br>✨ Contributer to <a href="https://github.com/codeforpdx" target="_blank">CODE PDX</a></p>
+<p align="left">🌱 Backend Software Engineer @ <a href="https://lateral.systems/" target="_blank">LATERAL Systems</a><br>🌎 Portland, Oregon<br>😄 Pronouns: He/Him<br>🧮 Former Accountant<br>✨ Contributer to <a href="https://github.com/codeforpdx" target="_blank">CODE PDX</a></p>
 
 ###
 
